@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{83626DF3-EDBE-45C6-B314-CA21C57EE4FE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldApp/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="HelloWorldApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/Controllers/HelloWorldController.cs" Line="17" Column="6" />
+      <File FileName="HelloWorldApp/Views/Index.cshtml" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/Views/Home/Index.cshtml" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldApp" expanded="True">
+            <Node name="HelloWorldApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
